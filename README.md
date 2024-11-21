@@ -1,2 +1,2 @@
 # Customer-Segmentation-Project
-Conducted an in-depth analysis of customer churn for a European bank using a dataset of 10,000 customers.
+Conducted an in-depth analysis of customer churn for a European bank using a dataset of 10,000 customers. Analyzed key attributes such as credit score, account balance, and product usage to identify patterns among churners. Performed demographic segmentation, behavioral comparisons across German, French, and Spanish customers, and developed insights into customer segments to improve retention strategies and predict churn.
